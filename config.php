@@ -19,7 +19,7 @@ $config->set('viewsFolder', 'vista/');
 $config->set('dbhost', 'localhost');
 $config->set('dbname', 'admin_friopan');
 $config->set('dbuser', 'admin_friopan');
-$config->set('dbpass', 'n0Mo02d*');
+$config->set('dbpass', '');
 //$config->set('dbpass', 'La141cas');
 //$config->set('dbpass', 'root');
 ?>
